@@ -17,7 +17,7 @@ Este es un portafolio personal desarrollado con **Vue 3**, **Pinia**, **Vue Rout
 
 ## 🚀 Demo en vivo
 
-👉 [https://subdominio.tudominio.com](https://subdominio.tudominio.com)
+👉 [https://myportfolio.mezadev.com](https://myportfolio.mezadev.com)
 
 ---
 
@@ -84,6 +84,8 @@ npm run dev
 4. Puedes modificar tu nombre, descripción, skills, enlaces, etc. desde la UI. Los cambios se guardan automáticamente en Firebase.
 5. Tus proyectos se mostrarán automáticamente desde tu cuenta de GitHub por medio de su API Rest.
 6. Tu LinkedIn tendra acessos directos con el url de configuraste previamente
+
+> El login, tendras que acceder manualmente el la barra de navegacion con /login debido a que no se implementa en el menu de navegacion porque el uso debera ser exclusivo del administrador.
 
 ---
 
